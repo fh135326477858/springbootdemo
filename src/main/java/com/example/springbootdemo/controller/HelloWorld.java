@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import java.util.Arrays;
-import java.util.List;
 import java.util.Map;
 
 @Controller
