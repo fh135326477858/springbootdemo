@@ -16,3 +16,5 @@ spring:
   thymeleaf:
     cache: false
 
+  messages:
+    basename: static.i18n.login
